@@ -5,6 +5,10 @@ msFilterList
 # - https://www.google.com/
 -d pagead2.googlesyndication.com
 
+# Kauli
+# - http://kau.li/jp
+-d kau.li
+
 # MicroAd
 # - https://www.microad.co.jp/
 -d send.microad.jp
