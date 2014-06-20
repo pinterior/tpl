@@ -1,6 +1,10 @@
 msFilterList
 : Expires=7
 
+# ExoClick
+# - https://www.exoclick.com/
+-d exoclick.com
+
 # Google
 # - https://www.google.com/
 -d pagead2.googlesyndication.com
