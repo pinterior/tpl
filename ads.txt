@@ -9,6 +9,10 @@ msFilterList
 # - https://www.exoclick.com/
 -d exoclick.com
 
+# Geniee
+# - http://geniee.co.jp/
+-d href.asia
+
 # Google
 # - https://www.google.com/
 -d doubleclick.net
