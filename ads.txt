@@ -1,6 +1,10 @@
 msFilterList
 : Expires=7
 
+# cyber communications
+# - http://www.cci.co.jp/
+-d adjust-net.jp
+
 # ExoClick
 # - https://www.exoclick.com/
 -d exoclick.com
