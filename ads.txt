@@ -29,3 +29,11 @@ msFilterList
 # MicroAd
 # - https://www.microad.co.jp/
 -d send.microad.jp
+
+# OpenX
+# - http://openx.com/
+-d openx.net
+
+# OpenX Market Japan
+# - http://openxmarket.jp/
+-d openxmarket.jp
