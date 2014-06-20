@@ -4,3 +4,7 @@ msFilterList
 # Google
 # - https://www.google.com/
 -d pagead2.googlesyndication.com
+
+# MicroAd
+# - https://www.microad.co.jp/
+-d send.microad.jp
