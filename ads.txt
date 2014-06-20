@@ -1,3 +1,6 @@
 msFilterList
 : Expires=7
 
+# Google
+# - http://www.google.com/
+-d pagead2.googlesyndication.com
