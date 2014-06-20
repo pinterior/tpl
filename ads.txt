@@ -11,6 +11,7 @@ msFilterList
 
 # Google
 # - https://www.google.com/
+-d doubleclick.net
 -d pagead2.googlesyndication.com
 
 # JuicyAds.com
