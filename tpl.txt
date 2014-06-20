@@ -49,3 +49,7 @@ msFilterList
 # Rakuten
 # - http://www.rakuten.co.jp/
 -d affiliate.rakuten.co.jp
+
+# solty design
+# - http://solty.2-d.jp/
+-d solty.biz
