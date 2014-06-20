@@ -45,3 +45,7 @@ msFilterList
 # OpenX Market Japan
 # - http://openxmarket.jp/
 -d openxmarket.jp
+
+# Rakuten
+# - http://www.rakuten.co.jp/
+-d affiliate.rakuten.co.jp
