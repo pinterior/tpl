@@ -9,6 +9,10 @@ msFilterList
 # - https://www.google.com/
 -d pagead2.googlesyndication.com
 
+# JuicyAds.com
+# - http://www.juicyads.com/
+-d juicyads.com
+
 # Kauli
 # - http://kau.li/jp
 -d kau.li
