@@ -22,6 +22,10 @@ msFilterList
 # - http://i-mdrive.co.jp/
 -d impact-ad.jp
 
+# i-mobile
+# - http://www.i-mobile.co.jp/
+-d i-mobile.co.jp
+
 # JuicyAds.com
 # - http://www.juicyads.com/
 -d juicyads.com
