@@ -14,6 +14,10 @@ msFilterList
 -d doubleclick.net
 -d pagead2.googlesyndication.com
 
+# i-MEDIA DRIVE
+# - http://i-mdrive.co.jp/
+-d impact-ad.jp
+
 # JuicyAds.com
 # - http://www.juicyads.com/
 -d juicyads.com
