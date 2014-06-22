@@ -1,6 +1,9 @@
 msFilterList
 : Expires=7
 
+# Ad Networks
+# -----------
+
 # cyber communications
 # - http://www.cci.co.jp/
 -d adjust-net.jp
@@ -50,6 +53,13 @@ msFilterList
 # - http://www.rakuten.co.jp/
 -d affiliate.rakuten.co.jp
 
+# Blog Parts
+# ----------
+
 # solty design
 # - http://solty.2-d.jp/
 -d solty.biz
+
+# ZenBack
+# - https://zenback.jp/
+-d zenback.jp
