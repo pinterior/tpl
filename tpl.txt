@@ -53,6 +53,10 @@ msFilterList
 # - http://www.rakuten.co.jp/
 -d affiliate.rakuten.co.jp
 
+# Yahoo! JAPAN
+# - http://promotionalads.yahoo.co.jp/
+-d im.ov.yahoo.co.jp
+
 # Blog Parts
 # ----------
 
