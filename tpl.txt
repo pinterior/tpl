@@ -76,6 +76,10 @@ msFilterList
 # - http://www.antennash.com/
 -d antennash.com
 
+# i2i
+# - http://www.i2i.jp/
+-d i2i.jp
+
 # solty design
 # - http://solty.2-d.jp/
 -d solty.biz
