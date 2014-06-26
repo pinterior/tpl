@@ -4,6 +4,10 @@ msFilterList
 # Ad Networks
 # -----------
 
+# Conversant
+# - http://www.conversantmedia.com/
+-d fastclick.net
+
 # Criteo
 # - http://www.criteo.com/
 -d criteo.com
