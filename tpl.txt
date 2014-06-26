@@ -80,6 +80,10 @@ msFilterList
 # - http://www.i2i.jp/
 -d i2i.jp
 
+# livedoor
+# - http://blogroll.livedoor.com/
+-d blogroll.livedoor.net
+
 # solty design
 # - http://solty.2-d.jp/
 -d solty.biz
