@@ -68,6 +68,10 @@ msFilterList
 # Blog Parts
 # ----------
 
+# ACR WEB
+# - http://www.ziyu.net/
+-d ziyu.net
+
 # solty design
 # - http://solty.2-d.jp/
 -d solty.biz
