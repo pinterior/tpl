@@ -4,6 +4,10 @@ msFilterList
 # Ad Networks
 # -----------
 
+# Criteo
+# - http://www.criteo.com/
+-d criteo.com
+
 # cyber communications
 # - http://www.cci.co.jp/
 -d adjust-net.jp
