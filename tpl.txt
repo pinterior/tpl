@@ -72,6 +72,10 @@ msFilterList
 # - http://www.ziyu.net/
 -d ziyu.net
 
+# Antenna Share
+# - http://www.antennash.com/
+-d antennash.com
+
 # solty design
 # - http://solty.2-d.jp/
 -d solty.biz
