@@ -4,6 +4,10 @@ msFilterList
 # Ad Networks
 # -----------
 
+# AdStir
+# - https://ja.ad-stir.com/
+-d ad-stir.com
+
 # Conversant
 # - http://www.conversantmedia.com/
 -d fastclick.net
