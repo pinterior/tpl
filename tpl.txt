@@ -69,6 +69,10 @@ msFilterList
 # - http://www.rakuten.co.jp/
 -d affiliate.rakuten.co.jp
 
+# X-LISTING
+# - http://www.xlisting.co.jp/
+-d xlisting.jp
+
 # Yahoo! JAPAN
 # - http://promotionalads.yahoo.co.jp/
 -d im.ov.yahoo.co.jp
