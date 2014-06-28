@@ -4,6 +4,10 @@ msFilterList
 # Ad Networks
 # -----------
 
+# adingo
+# - http://adingo.jp/
+-d adingo.jp
+
 # AdStir
 # - https://ja.ad-stir.com/
 -d ad-stir.com
