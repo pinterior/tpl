@@ -85,6 +85,10 @@ msFilterList
 # Trackers
 # --------
 
+# Chartbeat
+# - https://chartbeat.com/
+-d chartbeat.com
+
 # Google Analytics
 # - http://www.google.com/analytics/
 -d google-analytics.com
