@@ -63,7 +63,7 @@ msFilterList
 
 # MicroAd
 # - https://www.microad.co.jp/
--d send.microad.jp
+-d microad.jp
 
 # OpenX
 # - http://openx.com/
