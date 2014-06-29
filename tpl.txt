@@ -12,6 +12,10 @@ msFilterList
 # - https://ja.ad-stir.com/
 -d ad-stir.com
 
+# Advertising.com
+# - https://www.advertising.com/
+-d advertising.com
+
 # Conversant
 # - http://www.conversantmedia.com/
 -d fastclick.net
