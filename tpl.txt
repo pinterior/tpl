@@ -82,6 +82,13 @@ msFilterList
 -d im.ov.yahoo.co.jp
 -d yads.yahoo.co.jp
 
+# Trackers
+# --------
+
+# Google Analytics
+# - http://www.google.com/analytics/
+-d google-analytics.com
+
 # Blog Parts
 # ----------
 
