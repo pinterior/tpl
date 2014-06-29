@@ -8,6 +8,10 @@ msFilterList
 # - http://adingo.jp/
 -d adingo.jp
 
+# ADPLAN
+# - http://www.adplan.ne.jp/
+-d advg.jp
+
 # AdStir
 # - https://ja.ad-stir.com/
 -d ad-stir.com
