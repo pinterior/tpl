@@ -81,6 +81,10 @@ msFilterList
 # - http://www.rakuten.co.jp/
 -d affiliate.rakuten.co.jp
 
+# ValueCommerce
+# - http://www.valuecommerce.com/
+-d valuecommerce.com
+
 # X-LISTING
 # - http://www.xlisting.co.jp/
 -d xlisting.jp
