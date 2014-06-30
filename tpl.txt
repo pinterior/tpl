@@ -4,6 +4,10 @@ msFilterList
 # Ad Networks
 # -----------
 
+# A8.net
+# - http://www.a8.net/
+-d a8.net
+
 # adingo
 # - http://adingo.jp/
 -d adingo.jp
