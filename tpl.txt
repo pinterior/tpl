@@ -28,6 +28,10 @@ msFilterList
 # - https://www.advertising.com/
 -d advertising.com
 
+# ADWAYS
+# - http://www.adways.net/
+-d j-a-net.jp
+
 # AOL
 # - http://www.aol.com/
 -d atwola.com
