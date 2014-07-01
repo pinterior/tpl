@@ -97,6 +97,10 @@ msFilterList
 # - http://www.samurai-factory.jp/
 -d shinobi.jp
 
+# ScaleOut
+# - http://www.scaleout.jp/
+-d socdm.com
+
 # ValueCommerce
 # - http://www.valuecommerce.com/
 -d valuecommerce.com
