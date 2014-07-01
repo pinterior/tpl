@@ -28,6 +28,10 @@ msFilterList
 # - https://www.advertising.com/
 -d advertising.com
 
+# AOL
+# - http://www.aol.com/
+-d atwola.com
+
 # appnexus
 # http://www.appnexus.com/
 -d adnxs.com
