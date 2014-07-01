@@ -81,6 +81,10 @@ msFilterList
 # - http://www.i-mobile.co.jp/
 -d i-mobile.co.jp
 
+# Interspace
+# - http://www.interspace.ne.jp/
+-d accesstrade.net
+
 # JuicyAds.com
 # - http://www.juicyads.com/
 -d juicyads.com
