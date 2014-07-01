@@ -20,6 +20,10 @@ msFilterList
 # - https://ja.ad-stir.com/
 -d ad-stir.com
 
+# ADTECH
+# - http://www.adtech.com/en/
+-d adtech.de
+
 # Advertising.com
 # - https://www.advertising.com/
 -d advertising.com
