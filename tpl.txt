@@ -98,6 +98,7 @@ msFilterList
 -d im.ov.yahoo.co.jp
 -d yads.yahoo.co.jp
 
+
 # Trackers
 # --------
 
@@ -112,6 +113,7 @@ msFilterList
 # quantcast
 # - https://www.quantcast.com/
 -d quantserve.com
+
 
 # Blog Parts
 # ----------
