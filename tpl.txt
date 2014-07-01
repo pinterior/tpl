@@ -93,6 +93,10 @@ msFilterList
 # - http://www.rakuten.co.jp/
 -d affiliate.rakuten.co.jp
 
+# Samurai Factory
+# - http://www.samurai-factory.jp/
+-d shinobi.jp
+
 # ValueCommerce
 # - http://www.valuecommerce.com/
 -d valuecommerce.com
