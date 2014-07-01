@@ -24,6 +24,10 @@ msFilterList
 # - https://www.advertising.com/
 -d advertising.com
 
+# appnexus
+# http://www.appnexus.com/
+-d adnxs.com
+
 # Conversant
 # - http://www.conversantmedia.com/
 -d fastclick.net
