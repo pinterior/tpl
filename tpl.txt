@@ -52,6 +52,10 @@ msFilterList
 # - http://geniee.co.jp/
 -d href.asia
 
+# Glossom
+# - http://www.glossom.co.jp/
+-d adimg.net
+
 # Google
 # - https://www.google.com/
 -d doubleclick.net
