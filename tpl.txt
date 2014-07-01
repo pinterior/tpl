@@ -44,6 +44,10 @@ msFilterList
 # - https://www.exoclick.com/
 -d exoclick.com
 
+# FreakOut
+# - https://www.fout.co.jp/
+-d fout.jp
+
 # Geniee
 # - http://geniee.co.jp/
 -d href.asia
