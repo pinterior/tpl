@@ -101,6 +101,10 @@ msFilterList
 # - http://www.rakuten.co.jp/
 -d affiliate.rakuten.co.jp
 
+# Rapport
+# - http://www.rpprt.net/
+-d pitta.ne.jp
+
 # Samurai Factory
 # - http://www.samurai-factory.jp/
 -d shinobi.jp
