@@ -109,6 +109,10 @@ msFilterList
 # - http://www.google.com/analytics/
 -d google-analytics.com
 
+# quantcast
+# - https://www.quantcast.com/
+-d quantserve.com
+
 # Blog Parts
 # ----------
 
