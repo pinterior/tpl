@@ -4,10 +4,6 @@ msFilterList
 # Ad Networks
 # -----------
 
-# A8.net
-# - http://www.a8.net/
--d a8.net
-
 # adingo
 # - http://adingo.jp/
 -d adingo.jp
@@ -55,6 +51,11 @@ msFilterList
 # ExoClick
 # - https://www.exoclick.com/
 -d exoclick.com
+
+# F@N Communications
+# - http://www.fancs.com/
+-d a8.net
+-d nend.net
 
 # FreakOut
 # - https://www.fout.co.jp/
