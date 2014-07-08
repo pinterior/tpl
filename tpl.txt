@@ -4,6 +4,10 @@ msFilterList
 # Ad Networks
 # -----------
 
+# adcloud
+# - http://ad-cloud.jp/
+-d ad-cloud.jp
+
 # adingo
 # - http://adingo.jp/
 -d adingo.jp
