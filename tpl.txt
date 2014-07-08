@@ -80,6 +80,7 @@ msFilterList
 # Google
 # - https://www.google.com/
 -d doubleclick.net
+-d googleadservices.com
 -d googlesyndication.com
 
 # i-MEDIA DRIVE
