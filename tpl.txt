@@ -142,6 +142,7 @@ msFilterList
 # - http://promotionalads.yahoo.co.jp/
 -d im.ov.yahoo.co.jp
 -d yads.yahoo.co.jp
+-d yjtag.jp
 
 
 # Trackers
