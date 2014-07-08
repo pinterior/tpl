@@ -162,6 +162,10 @@ msFilterList
 # - https://www.quantcast.com/
 -d quantserve.com
 
+# User Local
+# - http://ui.userlocal.jp/
+-d nakanohito.jp
+
 
 # Blog Parts
 # ----------
