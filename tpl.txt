@@ -104,9 +104,17 @@ msFilterList
 # - http://kau.li/jp
 -d kau.li
 
+# LINE
+# - http://linecorp.com/
+-d unthem.com
+
 # MicroAd
 # - https://www.microad.co.jp/
 -d microad.jp
+
+# Microsoft
+# - http://www.microsoft.com/
+-d rad.msn.com
 
 # OpenX
 # - http://openx.com/
