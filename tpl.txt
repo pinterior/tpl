@@ -4,6 +4,10 @@ msFilterList
 # Ad Networks
 # -----------
 
+# adcash
+# - https://www.adcash.com/
+-d adcash.com
+
 # adcloud
 # - http://ad-cloud.jp/
 -d ad-cloud.jp
