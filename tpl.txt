@@ -171,6 +171,10 @@ msFilterList
 # - http://www.google.com/analytics/
 -d google-analytics.com
 
+# New Relic
+# - http://newrelic.com/
+-d newrelic.com
+
 # quantcast
 # - https://www.quantcast.com/
 -d quantserve.com
