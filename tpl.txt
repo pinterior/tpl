@@ -177,6 +177,10 @@ msFilterList
 # - http://newrelic.com/
 -d newrelic.com
 
+# Scigineer
+# - http://www.scigineer.co.jp/
+-d deqwas.net
+
 # quantcast
 # - https://www.quantcast.com/
 -d quantserve.com
