@@ -39,6 +39,7 @@ msFilterList
 # Amazon
 # - http://www.amazon.com/
 -d amazon-adsystem.com
+-d ws.amazon.co.jp
 
 # AOL
 # - http://www.aol.com/
