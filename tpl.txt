@@ -58,6 +58,7 @@ msFilterList
 
 # cyber communications
 # - http://www.cci.co.jp/
+-d ad-v.jp
 -d adjust-net.jp
 
 # ExoClick
