@@ -1,8 +1,8 @@
 msFilterList
 : Expires=7
 
-# Ad Networks
-# -----------
+# Ads
+# ---
 
 # adcash
 # - https://www.adcash.com/
@@ -35,6 +35,10 @@ msFilterList
 # ADWAYS
 # - http://www.adways.net/
 -d j-a-net.jp
+
+# Amazon
+# - http://www.amazon.com/
+-d amazon-adsystem.com
 
 # AOL
 # - http://www.aol.com/
