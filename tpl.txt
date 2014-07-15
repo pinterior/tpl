@@ -157,6 +157,7 @@ msFilterList
 -d im.ov.yahoo.co.jp
 -d yads.c.yimg.jp
 -d yads.yahoo.co.jp
+-d yeas.yahoo.co.jp
 -d yjtag.jp
 
 
