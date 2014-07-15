@@ -87,6 +87,7 @@ msFilterList
 -d doubleclick.net
 -d googleadservices.com
 -d googlesyndication.com
+-d googletagmanager.com
 -d googletagservices.com
 
 # i-MEDIA DRIVE
