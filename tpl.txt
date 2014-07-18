@@ -86,6 +86,7 @@ msFilterList
 # Glossom
 # - http://www.glossom.co.jp/
 -d adimg.net
+-d adlantis.jp
 
 # Google
 # - https://www.google.com/
