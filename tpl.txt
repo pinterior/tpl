@@ -92,6 +92,8 @@ msFilterList
 # Google
 # - https://www.google.com/
 -d doubleclick.net
+-d google.com /adsense/search/ads.js
+-d google.com /ads/search/module/ads
 -d googleadservices.com
 -d googlesyndication.com
 -d googletagmanager.com
