@@ -176,6 +176,10 @@ msFilterList
 # Trackers
 # --------
 
+# AddThis
+# - http://www.addthis.com/
+-d addthis.com
+
 # Chartbeat
 # - https://chartbeat.com/
 -d chartbeat.com
