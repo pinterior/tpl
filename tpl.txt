@@ -213,6 +213,10 @@ msFilterList
 # - http://newrelic.com/
 -d newrelic.com
 
+# NTTCom Online Marketing Solutions
+# - http://www.nttcoms.com/
+-d tracer.jp
+
 # Scigineer
 # - http://www.scigineer.co.jp/
 -d deqwas.net
