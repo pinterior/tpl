@@ -123,6 +123,10 @@ msFilterList
 # - http://linecorp.com/
 -d unthem.com
 
+# MediaMath
+# - http://www.mediamath.com/
+-d mathtag.com
+
 # MicroAd
 # - https://www.microad.co.jp/
 -d microad.jp
