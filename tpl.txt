@@ -193,6 +193,10 @@ msFilterList
 # - http://www.addthis.com/
 -d addthis.com
 
+# beBit
+# - http://www.bebit.co.jp/
+-d webantenna.info
+
 # Chartbeat
 # - https://chartbeat.com/
 -d chartbeat.com
