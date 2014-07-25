@@ -246,8 +246,9 @@ msFilterList
 -d i2i.jp
 
 # livedoor
-# - http://blogroll.livedoor.com/
+# - http://blog.livedoor.com/
 -d blogroll.livedoor.net
+-d parts.blog.livedoor.jp /plugin/popular_articles_with_image_plugin.js
 
 # solty design
 # - http://solty.2-d.jp/
