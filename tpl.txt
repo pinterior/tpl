@@ -143,6 +143,10 @@ msFilterList
 # - http://openxmarket.jp/
 -d openxmarket.jp
 
+# Pubmatic
+# - http://www.pubmatic.com/
+-d pubmatic.com
+
 # Rakuten
 # - http://www.rakuten.co.jp/
 -d affiliate.rakuten.co.jp
