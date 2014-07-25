@@ -175,6 +175,7 @@ msFilterList
 # - http://promotionalads.yahoo.co.jp/
 -d bc.geocities.yahoo.co.jp
 -d im.ov.yahoo.co.jp
+-d match.seesaa.jp
 -d yads.c.yimg.jp
 -d yads.yahoo.co.jp
 -d yeas.yahoo.co.jp
