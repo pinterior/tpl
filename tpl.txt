@@ -185,6 +185,10 @@ msFilterList
 # Trackers
 # --------
 
+# Adobe
+# - http://www.adobe.com/
+-d 2o7.net
+
 # AddThis
 # - http://www.addthis.com/
 -d addthis.com
