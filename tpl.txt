@@ -64,9 +64,9 @@ msFilterList
 # - http://www.criteo.com/
 -d criteo.com
 
-# CyberAgent
-# - http://www.cyberagent.co.jp/
+# CyberAgent - http://www.cyberagent.co.jp/
 -d adtdp.com
+-d ca-mpr.jp
 
 # cyber communications
 # - http://www.cci.co.jp/
