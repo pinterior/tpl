@@ -42,6 +42,9 @@ msFilterList
 -d rcm-jp.amazon.co.jp
 -d ws.amazon.co.jp
 
+# AMoAd - http://www.amoad.com/
+-d amoad.com
+
 # AOL
 # - http://www.aol.com/
 -d atwola.com
