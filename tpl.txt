@@ -209,6 +209,9 @@ msFilterList
 # - https://chartbeat.com/
 -d chartbeat.com
 
+# clicktale - http://www.clicktale.com/
+-d clicktale.net
+
 # Google Analytics
 # - http://www.google.com/analytics/
 -d google-analytics.com
