@@ -67,6 +67,8 @@ msFilterList
 # CyberAgent - http://www.cyberagent.co.jp/
 -d adtdp.com
 -d ca-mpr.jp
+# - Display Suite - http://d-suite.jp/pc/
+-d d-suite.jp
 
 # cyber communications
 # - http://www.cci.co.jp/
