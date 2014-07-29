@@ -212,6 +212,9 @@ msFilterList
 # - http://core-metrics.jp/
 -d coremetrics.com
 
+# krux - http://www.krux.com/
+-d krxd.net
+
 # New Relic
 # - http://newrelic.com/
 -d newrelic.com
