@@ -243,6 +243,10 @@ msFilterList
 # - http://www.ziyu.net/
 -d ziyu.net
 
+# AIVY Communications - http://www.aivy.co.jp/
+# - BlogPeople - http://www.blogpeople.net/
+-d blogpeople.net
+
 # Antenna Share
 # - http://www.antennash.com/
 -d antennash.com
