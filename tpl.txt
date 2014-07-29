@@ -209,7 +209,7 @@ msFilterList
 -d google-analytics.com
 
 # IBM
-# -d http://core-metrics.jp/
+# - http://core-metrics.jp/
 -d coremetrics.com
 
 # New Relic
