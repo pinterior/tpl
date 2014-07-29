@@ -4,6 +4,9 @@ msFilterList
 # Ads
 # ---
 
+# activecore - http://www.activecore.jp/
+-d a-cast.jp
+
 # adcash
 # - https://www.adcash.com/
 -d adcash.com
