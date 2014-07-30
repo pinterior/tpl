@@ -240,6 +240,9 @@ msFilterList
 # - http://www.nttcoms.com/
 -d tracer.jp
 
+# PageFair - https://pagefair.com/
+-d pagefair.com
+
 # Scigineer
 # - http://www.scigineer.co.jp/
 -d deqwas.net
