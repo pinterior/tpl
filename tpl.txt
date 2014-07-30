@@ -82,6 +82,9 @@ msFilterList
 # - https://www.exoclick.com/
 -d exoclick.com
 
+# Exponential Interactive - http://exponential.com/
+-d exponential.com
+
 # F@N Communications
 # - http://www.fancs.com/
 -d a8.net
