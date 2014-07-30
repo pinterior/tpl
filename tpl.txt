@@ -56,6 +56,9 @@ msFilterList
 # http://www.appnexus.com/
 -d adnxs.com
 
+# ASAHI INTERACTIVE - http://aiasahi.jp/
+-d aiasahi.jp
+
 # Conversant
 # - http://www.conversantmedia.com/
 -d fastclick.net
