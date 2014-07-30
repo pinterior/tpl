@@ -235,6 +235,9 @@ msFilterList
 # - http://www.scigineer.co.jp/
 -d deqwas.net
 
+# Sizmek - http://www.sizmek.com/
+-d serving-sys.com
+
 # quantcast
 # - https://www.quantcast.com/
 -d quantserve.com
