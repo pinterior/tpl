@@ -59,6 +59,9 @@ msFilterList
 # ASAHI INTERACTIVE - http://aiasahi.jp/
 -d aiasahi.jp
 
+# BuySellAds - https://buysellads.com/
+-d buysellads.com
+
 # Conversant
 # - http://www.conversantmedia.com/
 -d fastclick.net
