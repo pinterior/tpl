@@ -177,6 +177,9 @@ msFilterList
 # - http://www.scaleout.jp/
 -d socdm.com
 
+# Sizmek - http://www.sizmek.com/
+-d serving-sys.com
+
 # ValueCommerce
 # - http://www.valuecommerce.com/
 -d valuecommerce.com
@@ -240,9 +243,6 @@ msFilterList
 # Scigineer
 # - http://www.scigineer.co.jp/
 -d deqwas.net
-
-# Sizmek - http://www.sizmek.com/
--d serving-sys.com
 
 # quantcast
 # - https://www.quantcast.com/
