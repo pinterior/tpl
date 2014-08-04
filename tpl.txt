@@ -128,6 +128,9 @@ msFilterList
 # - http://www.interspace.ne.jp/
 -d accesstrade.net
 
+# ITmedia - http://corp.itmedia.co.jp/
+-d dlv.itmedia.jp
+
 # JuicyAds.com
 # - http://www.juicyads.com/
 -d juicyads.com
