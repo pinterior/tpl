@@ -11,9 +11,9 @@ msFilterList
 # - https://www.adcash.com/
 -d adcash.com
 
-# adcloud
-# - http://ad-cloud.jp/
+# adcloud - http://ad-cloud.jp/
 -d ad-cloud.jp
+-d webtracker.jp
 
 # adingo
 # - http://adingo.jp/
