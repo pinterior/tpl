@@ -70,6 +70,9 @@ msFilterList
 # - http://www.criteo.com/
 -d criteo.com
 
+# CXENSE - http://www.cxense.com/
+-d cxense.com
+
 # CyberAgent - http://www.cyberagent.co.jp/
 -d adtdp.com
 -d ca-mpr.jp
