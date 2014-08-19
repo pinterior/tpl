@@ -146,6 +146,9 @@ msFilterList
 # - http://linecorp.com/
 -d unthem.com
 
+# LinkShare Japan - http://jp.linkshare.com
+-d trafficgate.net
+
 # MediaMath
 # - http://www.mediamath.com/
 -d mathtag.com
