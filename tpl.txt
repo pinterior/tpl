@@ -172,6 +172,9 @@ msFilterList
 # Performance Horizon Group - http://www.performancehorizon.com/
 -d prf.hn
 
+# popIn - http://www.popin.cc/
+-d d.popin.cc
+
 # PubMatic
 # - http://www.pubmatic.com/
 -d pubmatic.com
