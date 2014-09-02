@@ -149,6 +149,9 @@ msFilterList
 # LinkShare Japan - http://jp.linkshare.com
 -d trafficgate.net
 
+# logly - https://www.logly.co.jp/
+-d logly.co.jp
+
 # MediaMath
 # - http://www.mediamath.com/
 -d mathtag.com
