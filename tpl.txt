@@ -152,6 +152,9 @@ msFilterList
 # logly - https://www.logly.co.jp/
 -d logly.co.jp
 
+# MAIST - https://maist.jp/
+-d maist.jp
+
 # MediaMath
 # - http://www.mediamath.com/
 -d mathtag.com
