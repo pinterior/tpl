@@ -79,10 +79,11 @@ msFilterList
 # - Display Suite - http://d-suite.jp/pc/
 -d d-suite.jp
 
-# cyber communications
-# - http://www.cci.co.jp/
+# cyber communications - http://www.cci.co.jp/
 -d ad-v.jp
 -d adjust-net.jp
+# - eco-tag - http://www.eco-tag.jp/
+-d eco-tag.jp
 
 # ExoClick
 # - https://www.exoclick.com/
