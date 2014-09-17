@@ -192,9 +192,9 @@ msFilterList
 # - http://www.pubmatic.com/
 -d pubmatic.com
 
-# Rakuten
-# - http://www.rakuten.co.jp/
+# Rakuten - http://www.rakuten.co.jp/
 -d affiliate.rakuten.co.jp
+-d afl.rakuten.co.jp
 
 # Rapport
 # - http://www.rpprt.net/
