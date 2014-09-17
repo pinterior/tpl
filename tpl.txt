@@ -146,6 +146,9 @@ msFilterList
 # - http://kau.li/jp
 -d kau.li
 
+# kks-box - http://kks-box.net/
+-d kks-box.net
+
 # LINE
 # - http://linecorp.com/
 -d unthem.com
