@@ -39,9 +39,9 @@ msFilterList
 # - http://www.adways.net/
 -d j-a-net.jp
 
-# Amazon
-# - http://www.amazon.com/
+# Amazon - http://www.amazon.com/
 -d amazon-adsystem.com
+-d assoc-amazon.jp
 -d rcm-jp.amazon.co.jp
 -d ws.amazon.co.jp
 
