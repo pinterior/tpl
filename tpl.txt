@@ -215,6 +215,9 @@ msFilterList
 # - http://www.valuecommerce.com/
 -d valuecommerce.com
 
+# Vantage - https://vntg.jp/
+-d vntg.jp
+
 # X-LISTING
 # - http://www.xlisting.co.jp/
 -d xlisting.jp
