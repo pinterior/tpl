@@ -97,9 +97,9 @@ msFilterList
 -d a8.net
 -d nend.net
 
-# FreakOut
-# - https://www.fout.co.jp/
+# FreakOut - https://www.fout.co.jp/
 -d fout.jp
+-d mtburn.com
 
 # Geniee
 # - http://geniee.co.jp/
