@@ -101,6 +101,9 @@ msFilterList
 -d fout.jp
 -d mtburn.com
 
+# Fringe81 - http://www.fringe81.com/
+-d rssad.jp
+
 # Geniee
 # - http://geniee.co.jp/
 -d href.asia
