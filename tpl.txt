@@ -308,6 +308,9 @@ msFilterList
 # - http://www.antennash.com/
 -d antennash.com
 
+# Blozoo - https://blozoo.com/
+-d blozoo.com
+
 # i2i
 # - http://www.i2i.jp/
 -d i2i.jp
