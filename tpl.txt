@@ -123,6 +123,9 @@ msFilterList
 -d googletagmanager.com
 -d googletagservices.com
 
+# Hatena - http://www.hatena.ne.jp/
+-d red.st-hatena.com
+
 # i-MEDIA DRIVE
 # - http://i-mdrive.co.jp/
 -d impact-ad.jp
