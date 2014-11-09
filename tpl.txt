@@ -104,9 +104,9 @@ msFilterList
 # Fringe81 - http://www.fringe81.com/
 -d rssad.jp
 
-# Geniee
-# - http://geniee.co.jp/
+# Geniee - http://geniee.co.jp/
 -d href.asia
+-d gsspcln.jp
 
 # Glossom
 # - http://www.glossom.co.jp/
