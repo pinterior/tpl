@@ -333,3 +333,6 @@ msFilterList
 # ZenBack
 # - https://zenback.jp/
 -d zenback.jp
+
+# ??? - ???
+-d ads-tool.jp
