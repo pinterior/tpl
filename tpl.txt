@@ -321,10 +321,11 @@ msFilterList
 # - http://www.i2i.jp/
 -d i2i.jp
 
-# livedoor
-# - http://blog.livedoor.com/
+# LINE - http://linecorp.com/
+# livedoor Blog - http://blog.livedoor.com/
 -d blogroll.livedoor.net
 -d parts.blog.livedoor.jp /plugin/popular_articles_with_image_plugin.js
+-d t.blog.livedoor.jp /u.js
 
 # solty design
 # - http://solty.2-d.jp/
