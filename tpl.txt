@@ -307,6 +307,9 @@ msFilterList
 # - BlogPeople - http://www.blogpeople.net/
 -d blogpeople.net
 
+# Amaprop - http://amaprop.net/
+-d amaprop.net
+
 # Antenna Share
 # - http://www.antennash.com/
 -d antennash.com
