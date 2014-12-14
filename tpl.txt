@@ -48,9 +48,10 @@ msFilterList
 # AMoAd - http://www.amoad.com/
 -d amoad.com
 
-# AOL
-# - http://www.aol.com/
+# AOL - http://www.aol.com/
 -d atwola.com
+# - Adap.tv - http://www.adap.tv/
+-d adap.tv
 
 # appnexus
 # http://www.appnexus.com/
