@@ -189,6 +189,9 @@ msFilterList
 # - http://openxmarket.jp/
 -d openxmarket.jp
 
+# Outbrain - http://www.outbrain.com/
+-d outbrain.com
+
 # Performance Horizon Group - http://www.performancehorizon.com/
 -d prf.hn
 
