@@ -57,6 +57,9 @@ msFilterList
 # http://www.appnexus.com/
 -d adnxs.com
 
+# AppVador - http://www.appvador.com/
+-d apvdr.com
+
 # ASAHI INTERACTIVE - http://aiasahi.jp/
 -d aiasahi.jp
 
