@@ -224,6 +224,9 @@ msFilterList
 # Sizmek - http://www.sizmek.com/
 -d serving-sys.com
 
+# Teads - http://teads.tv/
+-d teads.tv
+
 # ValueCommerce
 # - http://www.valuecommerce.com/
 -d valuecommerce.com
