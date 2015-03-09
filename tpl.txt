@@ -198,6 +198,12 @@ msFilterList
 # Performance Horizon Group - http://www.performancehorizon.com/
 -d prf.hn
 
+# piximedia - http://piximedia.com/
+-d adserver.pm
+-d broadcast.pm
+-d piximedia.com
+-d piximedia.fr
+
 # popIn - http://www.popin.cc/
 -d d.popin.cc
 
