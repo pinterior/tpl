@@ -205,6 +205,9 @@ msFilterList
 -d piximedia.com
 -d piximedia.fr
 
+# pixiv - http://www.pixiv.co.jp/
+-d d.5.to
+
 # popIn - http://www.popin.cc/
 -d d.popin.cc
 
