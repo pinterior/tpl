@@ -110,6 +110,7 @@ msFilterList
 
 # Geniee - http://geniee.co.jp/
 -d href.asia
+-d genieesspv.jp
 -d gsspcln.jp
 
 # Glossom
