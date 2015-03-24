@@ -224,6 +224,10 @@ msFilterList
 # - http://www.rpprt.net/
 -d pitta.ne.jp
 
+# Recruit Marketing Partners - http://www.recruit-mp.co.jp/
+# - dokoiku? - http://ad.doko.jp/
+-d doko.jp
+
 # Samurai Factory
 # - http://www.samurai-factory.jp/
 -d shinobi.jp
