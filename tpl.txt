@@ -178,6 +178,9 @@ msFilterList
 # - http://www.mediamath.com/
 -d mathtag.com
 
+# mgid - http://mgid.com/
+-d dt07.net
+
 # MicroAd
 # - https://www.microad.co.jp/
 -d microad.jp
