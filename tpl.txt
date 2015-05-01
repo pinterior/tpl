@@ -290,6 +290,10 @@ msFilterList
 # - http://www.bebit.co.jp/
 -d webantenna.info
 
+# cedexis - http://www.cedexis.com/
+-d cedexis.com
+-d cedexis-radar.net
+
 # Chartbeat
 # - https://chartbeat.com/
 -d chartbeat.com
