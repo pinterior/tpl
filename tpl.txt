@@ -323,6 +323,9 @@ msFilterList
 # PageFair - https://pagefair.com/
 -d pagefair.com
 
+# Scorecard Researhc - https://www.scorecardresearch.com/
+-d scorecardresearch.com
+
 # Scigineer
 # - http://www.scigineer.co.jp/
 -d deqwas.net
