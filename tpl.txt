@@ -154,6 +154,9 @@ msFilterList
 # - http://www.juicyads.com/
 -d juicyads.com
 
+# JWord - https://www.jword.jp/
+-d jword.jp
+
 # Kauli
 # - http://kau.li/jp
 -d kau.li
