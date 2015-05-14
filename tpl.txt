@@ -220,8 +220,7 @@ msFilterList
 -d d.5.to
 
 # popIn - http://www.popin.cc/
--d d.popin.cc
--d rlog.popin.cc
+-d popin.cc
 
 # PubMatic
 # - http://www.pubmatic.com/
