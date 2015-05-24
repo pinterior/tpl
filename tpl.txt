@@ -177,6 +177,9 @@ msFilterList
 # MAIST - https://maist.jp/
 -d maist.jp
 
+# Media.net
+-d media.net
+
 # MediaMath
 # - http://www.mediamath.com/
 -d mathtag.com
