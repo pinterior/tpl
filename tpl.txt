@@ -4,6 +4,9 @@ msFilterList
 # Ads
 # ---
 
+# Accelia - http://www.accelia.net/
+-d durasite.net
+
 # activecore - http://www.activecore.jp/
 -d a-cast.jp
 
