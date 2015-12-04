@@ -225,6 +225,9 @@ msFilterList
 # pixiv - http://www.pixiv.co.jp/
 -d d.5.to
 
+# PopAds - https://www.popads.net/
+-d popads.net
+
 # popIn - http://www.popin.cc/
 -d popin.cc
 
