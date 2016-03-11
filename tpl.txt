@@ -287,6 +287,7 @@ msFilterList
 -d yads.c.yimg.jp
 -d yads.yahoo.co.jp
 -d yeas.yahoo.co.jp
+-d yimg.jp /bdv/
 -d yjtag.jp
 
 
