@@ -265,6 +265,9 @@ msFilterList
 # sovrn - http://www.sovrn.com/
 -d lijit.com
 
+# Taboola - https://www.taboola.com/
+-d taboola.com
+
 # Teads - http://teads.tv/
 -d teads.tv
 
