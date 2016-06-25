@@ -112,9 +112,13 @@ msFilterList
 -d rssad.jp
 
 # Geniee - http://geniee.co.jp/
+-d ads.spacenine.biz
 -d href.asia
 -d genieesspv.jp
+-d gsspat.jp
 -d gsspcln.jp
+-d gssprt.jp
+-d media.gssp.asia
 
 # Glossom
 # - http://www.glossom.co.jp/
