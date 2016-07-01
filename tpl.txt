@@ -297,6 +297,8 @@ msFilterList
 -d yimg.jp /bdv/
 -d yjtag.jp
 
+# abandoned
+-d custom-click.com
 
 # Trackers
 # --------
