@@ -92,6 +92,9 @@ msFilterList
 # - eco-tag - http://www.eco-tag.jp/
 -d eco-tag.jp
 
+# BI.Garage - http://bi.garage.co.jp/
+-d bigmining.com
+
 # ExoClick
 # - https://www.exoclick.com/
 -d exoclick.com
