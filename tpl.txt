@@ -269,6 +269,9 @@ msFilterList
 # Sizmek - http://www.sizmek.com/
 -d serving-sys.com
 
+# skimlinks - http://skimlinks.com/
+-d skimresources.com
+
 # sovrn - http://www.sovrn.com/
 -d lijit.com
 
