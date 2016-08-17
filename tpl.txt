@@ -276,6 +276,9 @@ msFilterList
 # sovrn - http://www.sovrn.com/
 -d lijit.com
 
+# switch - http://www.switchconcepts.com/
+-d switchadhub.com
+
 # Taboola - https://www.taboola.com/
 -d taboola.com
 
