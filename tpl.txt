@@ -67,6 +67,9 @@ msFilterList
 # ASAHI INTERACTIVE - http://aiasahi.jp/
 -d aiasahi.jp
 
+# Automattic - https://automattic.com/
+-d pubmine.com
+
 # BuySellAds - https://buysellads.com/
 -d buysellads.com
 
