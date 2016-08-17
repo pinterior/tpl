@@ -52,6 +52,7 @@ msFilterList
 -d amoad.com
 
 # AOL - http://www.aol.com/
+-d adtechus.com
 -d atwola.com
 # - Adap.tv - http://www.adap.tv/
 -d adap.tv
