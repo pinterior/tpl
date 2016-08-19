@@ -292,6 +292,9 @@ msFilterList
 # Teads - http://teads.tv/
 -d teads.tv
 
+# Tealium - https://tealium.com/
+-d tags.tiqcdn.com
+
 # ValueCommerce
 # - http://www.valuecommerce.com/
 -d valuecommerce.com
