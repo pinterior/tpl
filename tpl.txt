@@ -262,6 +262,10 @@ msFilterList
 # - dokoiku? - http://ad.doko.jp/
 -d doko.jp
 
+# Rocket Fuel - https://rocketfuel.com/
+-d rfihub.com
+-d rfihub.net
+
 # Samurai Factory
 # - http://www.samurai-factory.jp/
 -d shinobi.jp
