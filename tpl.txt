@@ -204,6 +204,7 @@ msFilterList
 # MicroAd
 # - https://www.microad.co.jp/
 -d microad.jp
+-d microad.net
 
 # Microsoft
 # - http://www.microsoft.com/
