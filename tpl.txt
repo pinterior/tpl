@@ -211,6 +211,8 @@ msFilterList
 
 # more communication - http://www.more-com.co.jp/
 # - ARATA - http://www.m-arata.com/
+-d ad-arata.com
+-d ad-arata.s3.amazonaws.com
 -d m-arata.com
 
 # OpenX
