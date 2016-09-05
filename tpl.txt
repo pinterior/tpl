@@ -132,6 +132,9 @@ msFilterList
 -d adimg.net
 -d adlantis.jp
 
+# GMO SSP - http://gmossp.jp/
+-d sp.gmossp-sp.jp
+
 # Google
 # - https://www.google.com/
 -d doubleclick.net
