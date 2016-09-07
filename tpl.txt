@@ -432,6 +432,12 @@ msFilterList
 # - https://zenback.jp/
 -d zenback.jp
 
+# Misc
+# ----
+
+# Wikimedia - https://wikimediafoundation.org/wiki/Home
+-d meta.wikimedia.org ?title=Special:BannerLoader
+
 # ??? - ???
 -d ads-tool.jp
 -d itoman.doorblog.jp
