@@ -111,6 +111,9 @@ msFilterList
 -d a8.net
 -d nend.net
 
+# Fing - http://f-ing.co.jp/
+-d fam-ad.com
+
 # FreakOut - https://www.fout.co.jp/
 -d fout.jp
 -d mtburn.com
