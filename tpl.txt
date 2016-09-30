@@ -286,6 +286,9 @@ msFilterList
 # - http://www.scaleout.jp/
 -d socdm.com
 
+# Seesaa - http://seesaa.jp/
+-d sda.seesaa.jp
+
 # Sizmek - http://www.sizmek.com/
 -d serving-sys.com
 
