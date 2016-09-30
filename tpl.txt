@@ -184,6 +184,9 @@ msFilterList
 # kks-box - http://kks-box.net/
 -d kks-box.net
 
+# KPI Solutions - http://kpis.jp/
+-d mobsmart.net
+
 # LINE
 # - http://linecorp.com/
 -d unthem.com
