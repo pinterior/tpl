@@ -222,6 +222,9 @@ msFilterList
 # - http://www.microsoft.com/
 -d rad.msn.com
 
+# mmlabo - http://mmlabo.jp/
+-d mediad2.jp
+
 # more communication - http://www.more-com.co.jp/
 # - ARATA - http://www.m-arata.com/
 -d ad-arata.com
