@@ -378,6 +378,10 @@ msFilterList
 # krux - http://www.krux.com/
 -d krxd.net
 
+# LivePerson - http://www.liveperson.com/
+-d liveperson.net
+-d lpsnmedia.net
+
 # New Relic
 # - http://newrelic.com/
 -d newrelic.com
