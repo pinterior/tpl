@@ -307,6 +307,10 @@ msFilterList
 # sovrn - http://www.sovrn.com/
 -d lijit.com
 
+# Speee - http://speee.jp/
+-d speee-ad.akamaized.net
+-d speee-ad.jp
+
 # switch - http://www.switchconcepts.com/
 -d switchadhub.com
 
