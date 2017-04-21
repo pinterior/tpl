@@ -165,6 +165,7 @@ msFilterList
 
 # iid - http://www.iid.co.jp/
 -d ads2.iid.jp
+-d widget.iid-network.jp
 
 # Interspace
 # - http://www.interspace.ne.jp/
