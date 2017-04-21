@@ -141,10 +141,10 @@ msFilterList
 # GMO SSP - http://gmossp.jp/
 -d sp.gmossp-sp.jp
 
-# Google
-# - https://www.google.com/
+# Google - https://www.google.com/
 -d doubleclick.net
 -d google.com /adsense/search/ads.js
+-d google.com /adsense/search/async-ads.js
 -d google.com /ads/search/module/ads
 -d google.com /uds/api/ads
 -d googleadservices.com
