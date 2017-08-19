@@ -42,6 +42,9 @@ msFilterList
 # - http://www.adways.net/
 -d j-a-net.jp
 
+# adzerk - https://adzerk.com/
+-d adzerk.net
+
 # Amazon - http://www.amazon.com/
 -d amazon-adsystem.com
 -d assoc-amazon.jp
