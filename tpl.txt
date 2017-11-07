@@ -22,6 +22,9 @@ msFilterList
 # - http://adingo.jp/
 -d adingo.jp
 
+# adjapon - https://adjapon.com/
+-d medi-8.net
+
 # ADPLAN
 # - http://www.adplan.ne.jp/
 -d advg.jp
