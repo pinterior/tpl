@@ -147,6 +147,9 @@ msFilterList
 # GMO SSP - http://gmossp.jp/
 -d sp.gmossp-sp.jp
 
+# Gunosy Ads - https://gunosy.co.jp/ad/
+-d assets.gunosy.com /adnet/
+
 # Google - https://www.google.com/
 -d doubleclick.net
 -d google.com /adsense/search/ads.js
