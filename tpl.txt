@@ -86,9 +86,9 @@ msFilterList
 # - http://www.conversantmedia.com/
 -d fastclick.net
 
-# Criteo
-# - http://www.criteo.com/
+# Criteo - https://www.criteo.com/
 -d criteo.com
+-d criteo.net
 
 # CXENSE - http://www.cxense.com/
 -d cxense.com
