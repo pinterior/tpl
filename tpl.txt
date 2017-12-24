@@ -468,6 +468,9 @@ msFilterList
 # - https://zenback.jp/
 -d zenback.jp
 
+# X-lift - https://www.x-lift.jp/
+-d x-lift.jp
+
 # Misc
 # ----
 
