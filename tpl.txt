@@ -476,8 +476,11 @@ msFilterList
 -d itoman.doorblog.jp
 -d adsrvr.org
 
-# Miner
-# -----
+# Coin
+# ----
+
+# Bitflyer - https://bitflyer.jp/ja/
+-d bitflyer.jp /Images/Affiliate/
 
 # Coinhive - https://coinhive.com/
 -d coin-hive.com
