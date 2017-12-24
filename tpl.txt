@@ -447,6 +447,10 @@ msFilterList
 # Blozoo - https://blozoo.com/
 -d blozoo.com
 
+# Facebook - https://www.facebook.com/
+-d connect.facebook.net
+-d www.facebook.com /plugins/like.php
+
 # i2i
 # - http://www.i2i.jp/
 -d i2i.jp
