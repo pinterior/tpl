@@ -454,6 +454,8 @@ msFilterList
 # LINE - http://linecorp.com/
 # livedoor Blog - http://blog.livedoor.com/
 -d blogroll.livedoor.net
+-d parts.blog.livedoor.jp /js/recent_comments.js
+-d parts.blog.livedoor.jp /js/related_articles.js
 -d parts.blog.livedoor.jp /plugin/popular_articles_with_image_plugin.js
 -d t.blog.livedoor.jp /u.js
 
