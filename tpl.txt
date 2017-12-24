@@ -478,6 +478,7 @@ msFilterList
 -d ads-tool.jp
 -d itoman.doorblog.jp
 -d adsrvr.org
+-d coppedex.com
 
 # Coin
 # ----
