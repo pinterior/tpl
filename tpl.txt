@@ -504,3 +504,5 @@ msFilterList
 
 # Crypto-Loot - https://crypto-loot.com/
 -d crypto-loot.com
+-d cryptoloot.pro
+-d webmine.pro
