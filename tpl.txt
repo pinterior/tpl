@@ -430,7 +430,9 @@ msFilterList
 -d nakanohito.jp
 
 # Yahoo!
+-d geo.yahoo.com
 -d s.yimg.com /oa/guce.js
+-d s.yimg.com /ss/rapid-*.js
 
 # Blog Parts
 # ----------
