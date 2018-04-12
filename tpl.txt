@@ -62,6 +62,9 @@ msFilterList
 -d atwola.com
 # - Adap.tv - http://www.adap.tv/
 -d adap.tv
+# - Engadget Japanese
+-d o.aolcdn.com /os/aol/beacon.min.js
+-d s.aolcdn.com /os/aol/omniture-intl.min.js
 
 # All About - http://allabout.co.jp/info/datapolicy/
 -d primead.jp
