@@ -429,6 +429,8 @@ msFilterList
 # - http://ui.userlocal.jp/
 -d nakanohito.jp
 
+# Yahoo!
+-d s.yimg.com /oa/guce.js
 
 # Blog Parts
 # ----------
