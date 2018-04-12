@@ -455,7 +455,7 @@ msFilterList
 
 # Facebook - https://www.facebook.com/
 -d connect.facebook.net
--d www.facebook.com /plugins/like.php
+-d www.facebook.com /plugins
 
 # i2i
 # - http://www.i2i.jp/
